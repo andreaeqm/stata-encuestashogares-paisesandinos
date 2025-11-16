@@ -43,6 +43,6 @@ A continuación, se presentan algunos de los resultados visuales generados por l
 <img width="369" height="615" alt="rural" src="https://github.com/user-attachments/assets/5c2e6ad8-0040-43a1-b20e-e6f12cd27a4e" />
 
 
-## Nota sobre los Datos
+## Nota sobre los datos
 
-Para replicar el análisis, los `dofiles` deben ejecutarse en un entorno que contenga acceso a las bases de las encuestas mencioandas, ajustando las rutas (`globals`) de entrada y salida en cada script. Los archivos `.dta` colapsados en `/output_data` son los insumos directos para el script `4_graficos_finales.do`.
+Para replicar el análisis, los `dofiles` deben ejecutarse en un entorno que contenga acceso a las bases de las encuestas mencioandas, ajustando las rutas (`globals`) de entrada y salida en cada script. 
