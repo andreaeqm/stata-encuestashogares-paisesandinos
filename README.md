@@ -15,7 +15,7 @@ El proyecto se desarrolló en Stata. La metodología se divide en dos fases prin
 
 ### Fase 1: limpieza y procesamiento por país
 
-Se utiliza un script para cada encuesta. Cada script realiza el proceso de limpieza, preparación de variables, clasificación CIIU y colapso de los datos para obtener los indicadores de interés. Además generan mapas para indicar la participación relativa de la PEA ocupada en empleos de la bioeconomía respecto de la PEA ocupada total a nivel regional.
+Se utiliza un script para cada encuesta. Cada script realiza el proceso de limpieza, preparación de variables, clasificación CIIU y colapso de los datos para obtener los indicadores de interés. Además generan mapas para indicar la participación relativa de la PEA ocupada en empleos de la bioeconomía respecto de la PEA ocupada total a nivel regional. 
 
 * `1_limpieza_peru.do`: Procesa la ENAHO (Perú)
 * `2_limpieza_ecuador.do`: Procesa la ENEMDU (Ecuador).
